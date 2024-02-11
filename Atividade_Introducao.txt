@@ -1,0 +1,22 @@
+# Introdução á Internet das Coisas
+
+## O que é internet das coisas?
+
+Internet das coisas(IOT), é um conceito aplicado a objetos físicos que tem como objetivo
+conectar e trocar dados com a internet.
+Esses objetos podem ser desde algo doméstico como por exemplo uma babá eletrônica quanto
+algo empresarial, como por exemplo rastreadores em caminhões de carga como forma de aumentar
+a segurança dos mesmos
+
+Com o barateamento de chips e sensores, a internet das coisas hoje em dia, está sendo muito
+utilizada com coisas que não tem um ganho visível muito alto na vida das pessoas, sendo colocadas
+em objetos que muita das vezes não tem muita utilidade para se tornar objetos IOT. Como é o caso por 
+exemplo sendo colocadas em garrafas dágua, lâmpadas e em outras diversas coisas, tornando esses objetos
+IOT por si só, e não por ter um ganho na qualidade de vida ou resolvendo algum problema real.
+
+## Caso de uso
+
+### <A decidir>
+### Aspiradores de pó eletrônicos
+### Lugares disponíveis no metro.
+### <A decidir>
